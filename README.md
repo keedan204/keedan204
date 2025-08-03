@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @keedan204
-- 👀 I’m interested in ...coding, medical shows & fortnite
-- 🌱 I’m currently learning ...js, python & react
-- 💞️ I’m looking to collaborate on ...not sure yet, tbd
-- 📫 How to reach me ...here is good
+- 👀 I’m interested in ...coding, medical shows & travel
+- 🌱 My tech stack is ...html/css, javascript, node.js, python & react
+- 💞️ I’m looking to ...advance healthcare using technology
+- 📫 How to reach me ...message me here
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...i love ice cream
 
