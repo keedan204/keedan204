@@ -1,4 +1,4 @@
-<div><img width="400px" height="300px" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/172/395/original/Black_Dark_Red_Dark_Blue_Illustrative_Slogan_Juneteenth_Instagram_Post_Video.gif?1755504461" alt="KeeDan204" style="max-width: 100% display: inline-block;" data-target="animated-image.originalImage"></div>
+<div><img width="400px" height="300px" src="https://github.com/keedan204/keedan204/blob/main/github-banner.gif?raw=true" alt="KeeDan204" style="max-width: 100% display: inline-block;" data-target="animated-image.originalImage"></div>
 <br />
 <h1>👩🏾‍💻 About Me</h1>
 <h3>Healthcare Leader | Workforce Strategist | Digital Transformation </h3>
