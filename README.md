@@ -31,7 +31,7 @@
 Stat Card Coming 🔜
 <br />
 <br />
-<h1>🤝🏻 Connect with Me</h1>
+<h1>🤝🏾 Connect with Me</h1>
 Let’s build something awesome together!
 <br />
 <br />
