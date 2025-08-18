@@ -39,7 +39,7 @@ Let’s build something awesome together!
 <br />
 <br />
 <h1>☕ Support My Journey</h1>
-<h3>PayPal | Ko-Fi | BuyMeACoffee </h3>
+<h3>PayPal | BuyMeACoffee | Ko-Fi</h3>
 If my GitHub inspired you in some way, consider supporting me:
 <br />
 <br />
