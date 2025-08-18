@@ -52,7 +52,7 @@ If my GitHub inspired you in some way, consider supporting me:
 I <strong>love</strong> medical shows📺 & travel✈<br/>
 My <strong>purpose</strong> is to make this world🌎 more accessible for all🙌🏾 </div>
 <br />
-<br />
-<h4>✨ Links are continuously updated
+<hr>
+<h4>✨ Links are continuously updated<br />
 👋🏾 Thanks for visiting my page</h4>
 
