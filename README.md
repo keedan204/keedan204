@@ -16,7 +16,7 @@
 <br />
 
 <h1>💻 Explore My Work</h1>
-<h3>SheCodes | freecodecamp | Freelance </h3>
+<h3>SheCodes | freecodecamp | FreelanceGigs </h3>
 <div>Check out my <strong><a href="https://github.com/keedan204/Projects">Projects Hub</a></strong> which includes a growing collection of all the challenges, mini-apps and websites I’ve built while learning full stack web development.</div>
 <br />
 <br />
