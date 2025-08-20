@@ -1,4 +1,4 @@
-<div><img width="400px" height="300px" src="https://github.com/keedan204/keedan204/blob/main/github-banner.gif?raw=true" alt="KeeDan204" style="max-width: 100% display: inline-block;" data-target="animated-image.originalImage"></div>
+<div><img width="1000px" height="300px" src="https://github.com/keedan204/keedan204/blob/main/github-banner.gif?raw=true" alt="KeeDan204" style="max-width: 100% display: inline-block;" data-target="animated-image.originalImage"></div>
 <br />
 <h1>👩🏾‍💻 About Me</h1>
 <h3>Healthcare Leader | Workforce Strategist | Digital Transformation </h3>
@@ -28,7 +28,7 @@
 <br />
 <h1>📈 GitHub Stats</h1>
 <h3>Front End | Back End | API </h3>
-Stat Card Coming 🔜
+<a href="https://app.daily.dev/keedan204"><img src="https://api.daily.dev/devcards/v2/1Upa6hTWoYsNGPURJvEFv.png?type=default&r=znn" width="356" alt="KeeDan204's Dev Card"/></a>
 <br />
 <br />
 <h1>🤝🏾 Connect with Me</h1>
