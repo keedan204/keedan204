@@ -1,4 +1,4 @@
-<div><img width="1000px" height="300px" src="https://github.com/keedan204/keedan204/blob/main/github-banner.gif?raw=true" alt="KeeDan204" style="max-width: 100% display: inline-block;" data-target="animated-image.originalImage"></div>
+<div><img width="960px" height="594px" src="https://github.com/keedan204/keedan204/blob/main/github-banner.gif?raw=true" alt="KeeDan204" style="max-width: 100% display: inline-block;" data-target="animated-image.originalImage"></div>
 <br />
 <h1>👩🏾‍💻 About Me</h1>
 <h3>Healthcare Leader | Workforce Strategist | Digital Transformation </h3>
