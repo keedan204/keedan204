@@ -28,6 +28,7 @@
 <br />
 <h1>📈 GitHub Stats</h1>
 <h3>Front End | Back End | API </h3>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1e71a554ed5ee9d65720012f467222b4af060365e4def8681ba32bd02d1b3c4b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d436f64696e67576974684a69726f267374796c653d666c61742d73717561726526636f6c6f723d434330303232"><img src="https://camo.githubusercontent.com/1e71a554ed5ee9d65720012f467222b4af060365e4def8681ba32bd02d1b3c4b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d436f64696e67576974684a69726f267374796c653d666c61742d73717561726526636f6c6f723d434330303232" alt="Profile views" data-canonical-src="https://komarev.com/ghpvc/?username=keedan204&amp;style=flat-square&amp;color=CC0022" style="max-width: 100%;"></a>
 <a href="https://app.daily.dev/keedan204"><img src="https://api.daily.dev/devcards/v2/1Upa6hTWoYsNGPURJvEFv.png?type=default&r=znn" width="356" alt="KeeDan204's Dev Card"/></a>
 <br />
 <br />
