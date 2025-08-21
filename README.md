@@ -44,7 +44,7 @@ My posts are part reflection, part tech rant, and part therapy session — for a
 <p>
 Real talk. No hype. Occasionally funny. Click below if you’re into that kind of thing.</p><p align="left">
   <a href="https://app.daily.dev/keedan204/posts" target="_blank">
-    <img src="https://img.shields.io/badge/📝%20Spilling%20Code%20%26%20Thoughts-4169E1?style=for-the-badge" alt="Spilling Code & Thoughts Badge"/>
+    <img src="https://img.shields.io/badge/📝%20Spilling%20Code%20%26%20Thoughts-b57edc?style=for-the-badge" alt="Spilling Code & Thoughts Badge"/>
   </a>
 </p>
 <br>
