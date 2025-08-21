@@ -1,5 +1,4 @@
-<div><img width="400px" height="297px" src="https://github.com/keedan204/keedan204/blob/main/github-banner.gif?raw=true" alt="KeeDan204" style="max-width: 100% display: inline-block;" data-target="animated-image.originalImage"></div>
-<br />
+<img src="https://github.com/keedan204/keedan204/blob/main/github-banner.gif?raw=true" alt="KeeDan204" align="right" width="400" style="margin-left: 15px;" />
 <h1>👩🏾‍💻 About Me</h1>
 <h3>Healthcare Leader | Workforce Strategist | Digital Transformation </h3>
 <div>
