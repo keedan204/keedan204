@@ -15,10 +15,11 @@
 🚀 Long-Term Vision: Evolve into advanced roles in cybersecurity, AI, systems design, and cloud architecture, driving innovation and building secure, scalable solutions.<br/></div>
 <br />
 </div>
-
 <h1>💻 Explore My Work</h1>
 <h3>SheCodes | freeCodeCamp | FreelanceGigs </h3>
-<div>Check out my <strong><a href="https://github.com/keedan204/Projects-Hub">Projects Hub</a></strong> which includes a growing collection of all the challenges, mini-apps and websites I’ve built while learning full stack web development.</div>
+<div>Check out my <a href="https://github.com/keedan204/Projects-Hub" target="_blank">
+    <img src="https://img.shields.io/badge/🚧%20Project%20Hub-98ff98?style=for-the-badge" alt="Project Hub Badge"/>
+  </a> which includes a growing collection of all the challenges, mini-apps and websites I’ve built while learning full stack web development.</div>
 <br />
 <br />
 <h1>🛠 Tech Stack</h1>
