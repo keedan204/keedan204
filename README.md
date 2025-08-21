@@ -48,7 +48,6 @@ Real talk. No hype. Occasionally funny. Click below if you’re into that kind o
   </a>
 </p>
 <br>
-<br>
 <h1>☕ Support My Journey</h1>
 <h3>PayPal | BuyMeACoffee | Ko-Fi</h3>
 If my GitHub inspired you in some way, consider supporting me:
