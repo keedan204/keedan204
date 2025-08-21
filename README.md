@@ -39,6 +39,12 @@ Let’s build something awesome together!
 <br />
 <br />
 <a href="https://www.linkedin.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/b38b096af756695c6acd839338fdf761a79e7282ab4b42b8d1fdd3f8c5d2ffa8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3041363643323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a><a href="mailto:danikaymonique@gmail.com"><img src="https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a><a href="https://twitter.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/4d663eeba16a2c583c896c0dc81ab4226b8af495f6d0af8b3cc2f2b88854a252/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter" data-canonical-src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a><a href="https://github.com/keedan204"><img src="https://camo.githubusercontent.com/f1fbce44786ee4edcf97a717cce6c15cfc38a1f098efb08f11c1c80dd595a909/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
+<p align="center">
+  <a href="https://app.daily.dev/keedan204/posts" target="_blank">
+    <img src="https://img.shields.io/badge/📝%20Spilling%20Code%20%26%20Thoughts-ff69b4?style=for-the-badge" alt="Spilling Code & Thoughts Badge"/>
+  </a>
+</p>
+
 <br />
 <br />
 <h1>☕ Support My Journey</h1>
