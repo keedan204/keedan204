@@ -1,4 +1,8 @@
-<h2>👩🏾‍💻 About Me</h2><img src="https://github.com/keedan204/keedan204/blob/main/github-banner.gif" alt="KeeDan204" style="float: right; margin-left: 15px; max-width=100;" />
+<h1>👩🏾‍💻 About Me</h1>
+<div style="overflow: auto;">
+  <img src="https://github.com/keedan204/keedan204/blob/main/github-banner.gif" alt="KeeDan204"
+       style="float: right; margin-left: 15px; width: 200px;" />
+  Your text starts here. It should flow around the image, wrapping to the left side. Keep writing to see how the paragraphs align and flow naturally.
 <h3>Healthcare Leader | Workforce Strategist | Digital Transformation </h3>
 <div>
 🧠 Healthcare leader with 15+ years of experience, now advancing as a Full Stack Web Developer, dedicated to bridging the gap between healthcare delivery and technology to drive innovation and better patient outcomes.<br />
@@ -12,6 +16,7 @@
  
 🚀 Long-Term Vision: Evolve into advanced roles in cybersecurity, AI, systems design, and cloud architecture, driving innovation and building secure, scalable solutions.<br/></div>
 <br />
+</div>
 
 <h1>💻 Explore My Work</h1>
 <h3>SheCodes | freeCodeCamp | FreelanceGigs </h3>
