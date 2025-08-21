@@ -34,7 +34,7 @@
 <a href="https://app.daily.dev/keedan204"><img src="https://api.daily.dev/devcards/v2/1Upa6hTWoYsNGPURJvEFv.png?type=default&r=znn" width="356" alt="KeeDan204's Dev Card"/></a>
 <br />
 <br />
-<h1>☔ Spilling Code & Thoughts</h1>
+<h1>☔ Code Confessions</h1>
 <p>
 So what happens when a 45-year-old leaves a stable career in health services to learn how to center a <code>&lt;div&gt;</code>? Chaos. Growth. And a lot of Ctrl+Z.
 </p>
@@ -44,7 +44,7 @@ My posts are part reflection, part tech rant, and part therapy session — for a
 <p>
 Real talk. No hype. Occasionally funny. Click below if you’re into that kind of thing.</p><p align="left">
   <a href="https://app.daily.dev/keedan204/posts" target="_blank">
-    <img src="https://img.shields.io/badge/📝%20Spilling%20Code%20%26%20Thoughts-ff69b4?style=for-the-badge" alt="Spilling Code & Thoughts Badge"/>
+    <img src="https://img.shields.io/badge/📝%20Spilling%20Code%20%26%20Thoughts-4169E1?style=for-the-badge" alt="Spilling Code & Thoughts Badge"/>
   </a>
 </p>
 <br>
