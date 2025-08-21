@@ -1,5 +1,4 @@
-<img src="https://github.com/keedan204/keedan204/blob/main/github-banner.gif?raw=true" alt="KeeDan204" style="float: right; margin-left: 15px; width=200;" />
-<h1>👩🏾‍💻 About Me</h1>
+<img src="https://github.com/keedan204/keedan204/blob/main/github-banner.gif?raw=true" alt="KeeDan204" style="float: right; margin-left: 15px; width=100;" /><h1>👩🏾‍💻 About Me</h1>
 <h3>Healthcare Leader | Workforce Strategist | Digital Transformation </h3>
 <div>
 🧠 Healthcare leader with 15+ years of experience, now advancing as a Full Stack Web Developer, dedicated to bridging the gap between healthcare delivery and technology to drive innovation and better patient outcomes.<br />
