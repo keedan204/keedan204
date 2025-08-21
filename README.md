@@ -58,5 +58,5 @@ My <strong>purpose</strong> is to make this world🌎 more accessible for all�
 <br />
 <hr>
 <h4>✨ Links are continuously updated<br />
-👋🏾 Thanks for visiting my page</h4>
+👋🏾 Thank you for visiting my page</h4>
 
