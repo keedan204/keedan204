@@ -1,9 +1,7 @@
 <h1>👩🏾‍💻 About Me</h1>
 <div style="overflow: auto;">
   <img src="https://github.com/keedan204/keedan204/blob/main/github-banner.gif" alt="KeeDan204"
-       style="float: right; margin-left: 15px; width: 200px;" />
-  Your text starts here. It should flow around the image, wrapping to the left side. Keep writing to see how the paragraphs align and flow naturally.
-<h3>Healthcare Leader | Workforce Strategist | Digital Transformation </h3>
+       style="float: right; margin-left: 15px; width: 400px;" /><h3>Healthcare Leader | Workforce Strategist | Digital Transformation </h3>
 <div>
 🧠 Healthcare leader with 15+ years of experience, now advancing as a Full Stack Web Developer, dedicated to bridging the gap between healthcare delivery and technology to drive innovation and better patient outcomes.<br />
 <br/>
