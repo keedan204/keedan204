@@ -70,19 +70,13 @@ Real talk. No hype. Occasionally funny. Click below if you’re into that kind o
 </p>
 <br>
 <h1>☕ Support My Journey</h1>
-<h3>BuyMeACoffee | PayPal | Ko-Fi</h3>
+<h3> Ko-Fi | BuyMeACoffee | PayPal </h3>
 If my GitHub inspired you in some way, consider supporting me:
 <br />
 <br />
-<p align="left">
-<a href="https://www.buymeacoffee.com/keedan204"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=keedan204&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
-
-  <a href="https://paypal.me/keedan204">
-    <img src="https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=ffffff&style=flat-square" height="40">
-  </a>
-
-  <a href="https://ko-fi.com/L4L71K179A">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="35">
+<p><a href="https://ko-fi.com/L4L71K179A"><img src="https://ko-fi.com/img/githubbutton_sm.svg" height="25">
+  </a><a href="https://www.buymeacoffee.com/KeeDan204"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=DK204&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" height="25"></a><a href="https://paypal.me/keedan204">
+    <img src="https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=ffffff&style=flat-square" height="70">
   </a>
 </p>
 <br />
